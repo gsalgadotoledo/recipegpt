@@ -2,6 +2,9 @@
 
 The Chat Recipe Bot is a portfolio project that creates a chat using the OpenAI API to generate recipe ideas, including text and images. The bot is built with React.
 
+![Kapture 2023-02-18 at 15 04 20](https://user-images.githubusercontent.com/1288502/219890015-86ea5e9f-adad-4382-82ec-e156ecef4eec.gif)
+
+
 ### Installation
 
 To install the project, follow these steps:
